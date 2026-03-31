@@ -4,9 +4,6 @@
                     │
                     └──▶ Cache
 
-        → BACKEND DEVELOPER
-        → NODE.JS | EXPRESS
-
 ---
 
 ```
