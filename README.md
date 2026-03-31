@@ -1,16 +1,41 @@
-## Hi there 👋
+# Vishal R
 
-<!--
-**Vishal1721/Vishal1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+        ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗
+        ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║
+        ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║
+        ██╔═══╝ ██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║
+        ██║     ██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║
+        ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
 
-Here are some ideas to get you started:
+        → BACKEND DEVELOPER
+        → NODE.JS | EXPRESS
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```
+┌───────────────────────────────────────────────┐
+│                 TECH STACK                    │
+├───────────────────────────────────────────────┤
+│ ◆ Languages   : JavaScript, C++, Python       │
+│ ◆ Backend     : Node.js, Express.js           │
+│ ◆ Databases   : MongoDB, MySQL                │
+│ ◆ DevOps      : Docker, Git                   │
+│ ◆ Concepts    : System Design, REST APIs      │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## Links
+
+- 💼 LinkedIn  : https://www.linkedin.com/in/vishal-r-005a68328/
+- 💻 LeetCode  : https://leetcode.com/u/Vishal_17_/  
+
+---
+
+## About
+
+Backend developer focused on building scalable systems, optimizing performance, and designing real-world architectures.  
+Currently working on system design and cloud-based applications.
