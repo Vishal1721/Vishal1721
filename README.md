@@ -9,13 +9,13 @@
 ```
 ┌───────────────────────────────────────────────┐
 │                 TECH STACK                    │
-├───────────────────────────────────────────────┤
-│ ◆ Languages   : JavaScript, C++, Python       │
+├────────────────────────────────────────────── ┤
+│ ◆ Languages   : JavaScript, C++, Python       │ 
 │ ◆ Backend     : Node.js, Express.js           │
 │ ◆ Databases   : MongoDB, MySQL                │
 │ ◆ DevOps      : Docker, Git                   │
 │ ◆ Concepts    : System Design, REST APIs      │
-└───────────────────────────────────────────────┘
+└───────────────────────────────────────────────┘ 
 ```
 
 ---
