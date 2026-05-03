@@ -27,8 +27,8 @@ Currently working on **system design + cloud-based applications**.
 
 ## ⚙️ Tech Stack
 
-- ◈ Languages : JavaScript, C++, Python  
-- ◈ Backend   : Node.js, Express.js  
+- ◈ Languages : JavaScript, C++, Python , TypeScript 
+- ◈ Backend   : Node.js, Express.js , Hono 
 - ◈ Database  : MongoDB, MySQL  
 - ◈ DevOps    : Docker, Git  
 - ◈ APIs      : REST, HTTP  
@@ -38,8 +38,8 @@ Currently working on **system design + cloud-based applications**.
 
 ## 🏗️ Architecture
 Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
-│
-└──▶ Cache
+             │
+             └──▶ Cache
 
 
 ---
@@ -52,5 +52,5 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 ---
 
 <div align="center">
-  <sub>Open to opportunities · Chennai, IN · meow 🐾</sub>
+  <sub>Open to opportunities</sub>
 </div>
