@@ -1,63 +1,65 @@
-```
-   /\       /\                    ╔══════ TECH STACK ══════════╗
-  (  \     /  )                   ║                            ║
-  ( \  \ /  / )                   ║  ◈ Lang   : JS, C++, Py   ║
-   \ \(≡ ≡)/ /                    ║  ◈ Back   : Node, Express  ║
-    \( (^) )/                     ║  ◈ DB     : Mongo, MySQL   ║
-     /(---)\                      ║  ◈ DevOps : Docker, Git    ║
-    / /| |\ \                     ║  ◈ Ideas  : Sys Design     ║
-   ( ( | | ) )                    ║  ◈ APIs   : REST, HTTP     ║
-   |/`-' `-'\|                    ╚════════════════════════════╝
-   \  U   U  /
-    `-.___.-'
-   /|       |\
-  ( |  VR   | )
-   \|_______|/
-   _)       (_
-  (___________)
-```
-
----
-
 <div align="center">
 
-```
+
+/_/\ ⌁
+( •_• )
+
+^ <
+
+
+# Vishal R
+
+
 ╔══════════════════════════════════════╗
-║   whoami  →  Vishal R               ║
-║   role    →  Backend Developer      ║
-║   status  →  shipping at midnight   ║
+║ whoami → Vishal R ║
+║ role → Backend Developer ║
+║ status → shipping at midnight ║
 ╚══════════════════════════════════════╝
-```
+
 
 </div>
 
 ---
 
-## About
+## 🧠 About
 
-Backend developer focused on building scalable systems, optimizing
+Backend developer focused on building scalable systems, optimizing  
 performance, and designing real-world architectures.
-Currently working on system design and cloud-based applications.
+
+Currently working on **system design + cloud-based applications**.
 
 ---
 
-## Architecture
+## ⚙️ Tech Stack
 
-```
+
+◈ Languages : JavaScript, C++, Python
+◈ Backend : Node.js, Express.js
+◈ Database : MongoDB, MySQL
+◈ DevOps : Docker, Git
+◈ APIs : REST, HTTP
+◈ Focus : System Design
+
+
+---
+
+## 🏗️ Architecture
+
+
 Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
-               │
-               └──▶ Cache
-```
+│
+└──▶ Cache
+
 
 ---
 
-## Links
+## 🔗 Links
 
-- 💼 **LinkedIn** : [vishal-r-005a68328](https://www.linkedin.com/in/vishal-r-005a68328/)
-- 💻 **LeetCode** : [Vishal_17_](https://leetcode.com/u/Vishal_17_/)
+- 💼 LinkedIn: https://www.linkedin.com/in/vishal-r-005a68328/
+- 💻 LeetCode: https://leetcode.com/u/Vishal_17_/
 
 ---
 
 <div align="center">
-  <sub>Open to opportunities</sub>
+  <sub>Open to opportunities · Chennai, IN · meow 🐾</sub>
 </div>
