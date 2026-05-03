@@ -1,21 +1,16 @@
 <div align="center">
 
-
-/_/\ ⌁
+<pre>
+ /\_/\  ⌁
 ( •_• )
-
-^ <
-
+ > ^ <
+</pre>
 
 # Vishal R
 
-
-╔══════════════════════════════════════╗
-║ whoami → Vishal R ║
-║ role → Backend Developer ║
-║ status → shipping at midnight ║
-╚══════════════════════════════════════╝
-
+<pre>
+whoami → Vishal R  |  role → Backend Developer  |  status → shipping at midnight
+</pre>
 
 </div>
 
@@ -32,20 +27,16 @@ Currently working on **system design + cloud-based applications**.
 
 ## ⚙️ Tech Stack
 
-
-◈ Languages : JavaScript, C++, Python
-◈ Backend : Node.js, Express.js
-◈ Database : MongoDB, MySQL
-◈ DevOps : Docker, Git
-◈ APIs : REST, HTTP
-◈ Focus : System Design
-
+- ◈ Languages : JavaScript, C++, Python  
+- ◈ Backend   : Node.js, Express.js  
+- ◈ Database  : MongoDB, MySQL  
+- ◈ DevOps    : Docker, Git  
+- ◈ APIs      : REST, HTTP  
+- ◈ Focus     : System Design  
 
 ---
 
 ## 🏗️ Architecture
-
-
 Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 │
 └──▶ Cache
