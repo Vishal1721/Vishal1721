@@ -35,12 +35,13 @@ Currently working on **system design + cloud-based applications**.
 - ◈ Focus     : System Design  
 
 ---
-
+<div>
 ## 🏗️ Architecture
 Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
-
              │
              └──▶ Cache
+</div>
+
 
 
 ---
