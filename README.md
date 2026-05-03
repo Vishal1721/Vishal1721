@@ -59,5 +59,5 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 ---
 
 <div align="center">
-  <sub>Open to opportunities · Chennai, IN · meow</sub>
+  <sub>Open to opportunities</sub>
 </div>
