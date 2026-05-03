@@ -1,9 +1,9 @@
 <div align="center">
 
 <pre>
- /\_/\  ⌁
+  /\_/\  ⌁
 ( •_• )
- > ^ <
+  > ^ <
 </pre>
 
 # Vishal R
