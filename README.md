@@ -38,6 +38,7 @@ Currently working on **system design + cloud-based applications**.
 
 ## 🏗️ Architecture
 Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
+
              │
              └──▶ Cache
 
