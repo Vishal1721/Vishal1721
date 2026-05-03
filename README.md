@@ -41,8 +41,6 @@ Currently working on **system design + cloud-based applications**.
 Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
                │
                └──▶ Cache
-
-
 ```
 ---
 
