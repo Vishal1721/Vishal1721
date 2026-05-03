@@ -1,25 +1,18 @@
 <!-- DEV CAT -->
-<div align="center">
+ /\_____/\
+(  o   o  )
+( =  ^  = )     >_ node server.js
+ )         (    Server running :3000
+(           )   const ship = () => now;
+ \  |   |  /    // purring at 100% cpu
+ (_|   |_)
+  ~~~   ~~~
 
-```
-                    |\      _,,,---,,_
-              /\   /||\  ;;  -     -  `'.
-             / /  | || ';  ●         ●  |     >_ node server.js
-            ( (   | ||  |      ▾        |     Server running :3000
-             \ \  | ||  |    ╰───╯     |     const ship = () => now;
-              \/  |/||   \            /      // purring at 100% cpu
-                  `  '    `-._____.-'
-                  ┌───────────────────────┐
-                  │  >_ vim README.md     │
-                  │  app.listen(3000)     │
-                  │  // TODO: ship it ▌  │
-                  └───────────────────────┘
-                  ┌─┬─┬─┬─┬─┬─┬─┬─┬─┬─┐
-                  │ │ │ │ │ │ │ │ │ │ │ │
-                  └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘
-```
-
-</div>
+  ┌─────────────────────┐
+  │ >_ vim README.md     │
+  │ app.listen(3000)     │
+  │ // TODO: ship it ▌  │
+  └─────────────────────┘
 
 ---
 
