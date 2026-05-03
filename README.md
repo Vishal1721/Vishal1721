@@ -43,7 +43,7 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
                └──▶ Cache
 
 
-
+```
 ---
 
 ## 🔗 Links
