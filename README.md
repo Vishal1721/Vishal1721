@@ -43,7 +43,6 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
                └──▶ Cache
 ```
 ---
-
 ## 🔗 Links
 
 - 💼 LinkedIn: https://www.linkedin.com/in/vishal-r-005a68328/
