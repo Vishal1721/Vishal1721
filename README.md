@@ -5,7 +5,7 @@
 ( •_• )
 > ^ <
 </pre>
-
+![Profile Views](https://komarev.com)
 # Vishal R
 
 <pre>
@@ -53,6 +53,4 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 <div align="center">
   <sub>Open to opportunities</sub>
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
 
