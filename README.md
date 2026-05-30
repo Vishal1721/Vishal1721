@@ -50,8 +50,6 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 
 ---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vishal1721&show_icons=true&theme=tokyonight)
-
 ## 📊 GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal1721&theme=tokyonight)
@@ -60,7 +58,7 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal1721&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vishal1721)
+![](https://streak-stats.demolab.com?user=Vishal1721&theme=tokyonight)
 
 <div align="center">
   <sub>Open to opportunities</sub>
