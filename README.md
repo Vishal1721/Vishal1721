@@ -5,12 +5,7 @@
 ( •_• )
 > ^ <
 </pre>
-![Profile Views](https://komarev.com/ghpvc/?username=Vishal-17&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-17&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-17&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-17)
 # Vishal R
 
 <pre>
@@ -54,6 +49,13 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 - 💻 LeetCode: https://leetcode.com/u/Vishal_17_/
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Vishal-17&label=Profile%20Views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal-17&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-17&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Vishal-17)
 
 <div align="center">
   <sub>Open to opportunities</sub>
