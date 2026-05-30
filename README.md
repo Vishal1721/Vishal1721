@@ -58,11 +58,8 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishal1721&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal1721&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishal1721&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal1721&theme=tokyonight" width="48%" />
 
 <br><br>
 
