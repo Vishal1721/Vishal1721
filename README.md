@@ -53,3 +53,6 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 <div align="center">
   <sub>Open to opportunities</sub>
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME)
+
