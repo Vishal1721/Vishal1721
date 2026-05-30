@@ -52,7 +52,13 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Vishal1721&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1721&layout=compact&hide=html,css&theme=tokyonight)
+## 📊 GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishal1721&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishal1721&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal1721&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal1721)
 
