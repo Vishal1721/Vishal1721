@@ -5,7 +5,7 @@
 ( •_• )
 > ^ <
 </pre>
-![Profile Views](https://komarev.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Vishal-17&label=Profile%20Views&color=0e75b6&style=flat)
 # Vishal R
 
 <pre>
