@@ -27,12 +27,25 @@ Currently working on **system design + cloud-based applications**.
 
 ## ⚙️ Tech Stack
 
-- ◈ Languages : JavaScript, C++, Python , TypeScript 
-- ◈ Backend   : Node.js, Express.js , Hono 
-- ◈ Database  : MongoDB, MySQL  
-- ◈ DevOps    : Docker, Git  
-- ◈ APIs      : REST, HTTP  
-- ◈ Focus     : System Design  
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>  
 
 ---
 ## 🏗️ Architecture
