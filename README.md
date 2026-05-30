@@ -43,12 +43,6 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
                └──▶ Cache
 ```
 ---
-## 🔗 Links
-
-- 💼 LinkedIn: https://www.linkedin.com/in/vishal-r-005a68328/
-- 💻 LeetCode: https://leetcode.com/u/Vishal_17_/
-
----
 
 ## 📫 Contact
 
@@ -61,6 +55,9 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
