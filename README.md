@@ -50,7 +50,7 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1721&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1721&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal1721&layout=compact)
 
