@@ -49,7 +49,6 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 - 💻 LeetCode: https://leetcode.com/u/Vishal_17_/
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Vishal1721&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal1721&show_icons=true)
 
