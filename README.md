@@ -41,6 +41,11 @@ Currently working on **system design + cloud-based applications**.
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
+### 🏗️ System Design & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,redis,docker,aws,kubernetes,nginx,rabbitmq,graphql,terraform,prometheus" />
+</p>
+
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
