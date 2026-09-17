@@ -29,10 +29,7 @@ Currently working on **system design + cloud-based applications**.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,frappe,erpnext" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css,bootstrap,frappe,erpnext" />
 </p>
 ### Backend
 <p>
