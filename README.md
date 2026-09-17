@@ -38,7 +38,7 @@ Currently working on **system design + cloud-based applications**.
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgres,redis" />
 </p>
 
 ### Tools
