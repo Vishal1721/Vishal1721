@@ -33,7 +33,7 @@ Currently working on **system design + cloud-based applications**.
 </p>
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,hono" />
 </p>
 
 ### Databases
