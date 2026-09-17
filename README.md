@@ -43,7 +43,7 @@ Currently working on **system design + cloud-based applications**.
 
 ### 🏗️ System Design & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,redis,docker,aws,kubernetes,nginx,rabbitmq,graphql,terraform,prometheus" />
+  <img src="https://skillicons.dev/icons?i=kafka,aws,kubernetes,nginx,rabbitmq,graphql,terraform,prometheus" />
 </p>
 
 ### Tools
