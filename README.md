@@ -69,9 +69,10 @@ Client ──▶ API Gateway ──▶ Service Layer ──▶ Database
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/Vishal_17_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/Vishal_R__/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
 </a>
+
 </p>
 
 ---
