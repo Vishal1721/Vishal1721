@@ -1,4 +1,9 @@
 
+<div align="center">
+
+### ☕ `vishal.js`
+
+```javascript
 const vishal = {
   role: "Backend Developer",
   coffee: Infinity,
@@ -6,7 +11,7 @@ const vishal = {
   sleep: 0
 };
 
-while (vishal.awake) {
+while (true) {
   try {
     code();
     commit();
@@ -16,3 +21,8 @@ while (vishal.awake) {
     blameCSS();
   }
 }
+```
+
+**Turning coffee into commits ☕**
+
+</div>
