@@ -1,18 +1,18 @@
-<div align="center">
 
-<pre>
-   /\_/\  ⌁
-( •_• )
-> ^ <
-</pre>
+const vishal = {
+  role: "Backend Developer",
+  coffee: Infinity,
+  bugs: Infinity,
+  sleep: 0
+};
 
-# Vishal R
-
-<pre>
-whoami → Vishal R  |  role → Backend Developer  |  status → shipping at midnight
-</pre>
-
-</div>
-
-
-
+while (vishal.awake) {
+  try {
+    code();
+    commit();
+    deploy();
+  } catch (bug) {
+    drinkCoffee();
+    blameCSS();
+  }
+}
