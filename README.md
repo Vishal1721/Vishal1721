@@ -38,10 +38,15 @@ class Vishal:
 > Today's achievement: Changed one line.
 > Broke the entire application.
 
+
 <table>
   <tr>
-    <td bgcolor="#161b22" align="center">
-      <sub>⚡ Powered by curiosity | Built with Python | Debugging since forever</sub>
+    <td width="100%" bgcolor="#161b22" align="center">
+      <br>
+      <b>⚡ DEBUGGING SINCE FOREVER</b>
+      <br><br>
+      <sub>Powered by curiosity · Driven by bugs</sub>
+      <br><br>
     </td>
   </tr>
 </table>
