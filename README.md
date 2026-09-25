@@ -1,8 +1,7 @@
 
 <div align="center">
 
-### `vishal.py` 🐍
-
+### `vishal.py` 
 </div>
 
 ```python
