@@ -39,14 +39,11 @@ class Vishal:
 > Broke the entire application.
 
 
+
 <table>
   <tr>
     <td width="100%" bgcolor="#161b22" align="center">
-      <br>
-      <b>⚡ DEBUGGING SINCE FOREVER</b>
-      <br><br>
-      <sub>Powered by curiosity · Driven by bugs</sub>
-      <br><br>
+      <sub>⚡ Built with Python | Debugging since forever</sub>
     </td>
   </tr>
 </table>
