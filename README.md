@@ -1,7 +1,18 @@
 
 <div align="center">
 
-### `vishal.py` 
+# Vishal R
+
+### Backend Developer | Open Source Enthusiast
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Frappe-161b22?style=flat-square&logo=frappe&logoColor=0089FF" />
+</p>
+
 </div>
 
 ```python
@@ -19,31 +30,27 @@ class Vishal:
         while True:
             try:
                 code()
-                commit()
+                test()
                 deploy()
             except Exception:
-                print("Works on my machine!")
+                print("Works on my machine! 😎")
 ```
 
 ---
 
 ### 🛠️ Developer Patch Notes
 
-- Fixed 2 bugs.
-- Created 7 new bugs.
-- Confidence: 100%
-- Progress: Still loading...
-- Sleep: Not found.
+```diff
++ Fixed 2 bugs
++ Added 3 new features
+- Removed 8 hours of sleep
+! Production is now a testing environment
+```
 
-> Today's achievement: Changed one line.
-> Broke the entire application.
+<div align="center">
 
+**Currently debugging my life...**
 
+<img src="https://img.shields.io/badge/STATUS-UNDER%20INVESTIGATION-161b22?style=for-the-badge&labelColor=161b22" />
 
-<table>
-  <tr>
-    <td width="100%" bgcolor="#161b22" align="center">
-      <sub>⚡ Built with Python | Debugging since forever</sub>
-    </td>
-  </tr>
-</table>
+</div>
