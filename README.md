@@ -3,7 +3,7 @@
 
 # Vishal R
 
-### Backend Developer | Open Source Enthusiast
+### Backend Developer
 
 <p>
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
